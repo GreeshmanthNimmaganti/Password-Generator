@@ -1,1 +1,1 @@
-# Password-Generator
+The Password Generator project will create a web application that allows users to generate strong, random passwords based on specific criteria such as length, inclusion of uppercase letters, numbers, and special characters.
